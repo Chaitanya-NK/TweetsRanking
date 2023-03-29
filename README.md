@@ -1,6 +1,6 @@
 # TweetsRanking
 
-### Downloading the live stream twitter data and creating the dataset.
+- Item 1 Downloading the live stream twitter data and creating the dataset.
 ### Classifying the tweets as related to disaster and not related to disaster.
 ### Sentiment Analysis of the classified tweets.
 ### Ranking the disaster related tweets.
