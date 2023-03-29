@@ -1,10 +1,10 @@
 # TweetsRanking
 
-- Item 1 Downloading the live stream twitter data and creating the dataset.
-- Item 2 Classifying the tweets as related to disaster and not related to disaster.
-- Item 3 Sentiment Analysis of the classified tweets.
-- Item 4 Ranking the disaster related tweets.
-- Item 5 Integrating the final model in a web application.
+- Downloading the live stream twitter data and creating the dataset.
+- Classifying the tweets as related to disaster and not related to disaster.
+- Sentiment Analysis of the classified tweets.
+- Ranking the disaster related tweets.
+- Integrating the final model in a web application.
 
 ![alt text](https://github.com/Chaitanya-NK/TweetsRanking/blob/main/ProjectCode/MyPackage/Workflow.png)
 
